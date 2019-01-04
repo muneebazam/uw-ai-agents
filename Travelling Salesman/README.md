@@ -3,9 +3,9 @@ Travelling Salesman
 
 Multiple search algorithm implementations to solve the Travelling Salesman problem including:
 
-- A Star
-- Hill Climbing
-- Simulated Annealing 
+- *A Star*
+- *Hill Climbing*
+- *Simulated Annealing* 
 
 The *Test_Problems/* directory contains 10 test instances for each number of cities ranging from 1 to 16 as well as a 36 city instance.
 
