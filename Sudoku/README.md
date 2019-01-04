@@ -3,13 +3,10 @@ Sudoku
 
 Backtracking search algorithm implementation to solve a Sudoku puzzle
 
-The *Sudoku_Problems/* directory contains 10 test instances for each number of cities ranging from 1 to 16 as well as a 36 city instance.
-
-
-## a_star.py
-
-This program implements the A-star search algorithm with the *nearest neighbour* heuristic to solve the Travelling Salesman Problem. 
+The *Sudoku_Problems/* directory contains 10 test instances for each number of pre-filled spots on the Sudoku board ranging from 1 to 71.
 
 ### Usage
 
-```python a_star.py <num_city> <num_instance>```
+```python sudoku.py <num_pre_filled_cells> <num_instance>```
+
+
