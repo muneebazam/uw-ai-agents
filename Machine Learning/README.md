@@ -17,8 +17,8 @@ The *data_set.csv* file contains 100 data points each with four features and a c
 
 ### Usage
 
-```python decision_trees.py <max_depth>``` Where ```<max_depth>``` is the maximum tree depth the algorithm will build.
+```python decision_trees.py <max_depth>``` where ```<max_depth>``` is the maximum tree depth the algorithm will build.
 
-***Note: this algorithm will export a file with a visual of the decision tree it creates for every depth/iteration. For example, running the algorithm with max_depth=10 will generate 100 files (10 iterations with depth=1, 10 iterations with depth=2 and so on)***
+***Note: this algorithm will export a file with a visual of the decision tree it creates for every depth/iteration. For example, running the algorithm with max_depth=10 will generate 100 files (10 iterations with depth=1, 10 iterations with depth=2 up to depth=10)***
 
 
