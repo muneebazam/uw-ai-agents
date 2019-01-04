@@ -26,12 +26,23 @@ This program implements multiple variations of the local search hill climbing al
 
 ```python hill_climbing.py <num_city> <num_instance> <version_number>```
 
-Where version number is one of the following:
-A -> 
-B ->
-C -> 
+Where ```<version_number>``` is one of *A*, *B* or *C* corresponding to the following versions:
+
+*A*: Hill Climbing 
+
+*B*: Hill Climbing + Sideway Moves
+
+*C*: Hill Climbing + Sideway Moves + Random Restarts
 
 ## simulated_annealing.py
+
+This program implements the local search simulated annealing algorithm to solve the Travelling Salesman Problem.
+
+### Usage
+
+```python simulated_annealing.py <num_city> <num_instance> <scheduler_version>```
+
+Where ```<scheduler_version>``` must be one of: *log*, *exp* or *linear* indicating a logarithmic, exponential and linear scheduling algorithm respectively. 
 
 
 
