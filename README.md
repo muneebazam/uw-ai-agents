@@ -6,7 +6,7 @@ This repository features AI Search and Machine Learning Algorithms to solve many
 
 The Travelling Salesman Problem describes a salesman who must travel between N cities. The order in which he does so is something he does not care about, as long as he visits each once during his trip, and finishes where he was at first.
 
-For more information on the travelling salesman problem see: *https://simple.wikipedia.org/wiki/Travelling_salesman_problem*
+For more information on the TSP see: *https://simple.wikipedia.org/wiki/Travelling_salesman_problem*
 
 
 ### Sudoku
