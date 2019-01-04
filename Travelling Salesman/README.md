@@ -7,6 +7,10 @@ Multiple search algorithm implementations to solve the Travelling Salesman probl
 - Hill Climbing
 - Simulated Annealing 
 
-## astar.py
+## a_star.py
+
+## hill_climbing.py
+
+## simulated_annealing.py
 
 
