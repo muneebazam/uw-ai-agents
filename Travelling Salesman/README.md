@@ -42,7 +42,7 @@ This program implements the local search simulated annealing algorithm to solve 
 
 ```python simulated_annealing.py <num_city> <num_instance> <scheduler_version>```
 
-Where ```<scheduler_version>``` must be one of: *log*, *exp* or *linear* indicating a logarithmic, exponential and linear scheduling algorithm respectively. 
+Where ```<scheduler_version>``` must be one of: *log*, *exp* or *linear* indicating a logarithmic, exponential or linear scheduling algorithm respectively. 
 
 
 
